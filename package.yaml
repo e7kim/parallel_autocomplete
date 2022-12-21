@@ -1,6 +1,6 @@
 name:                autocomplete
 version:             0.1.0.0
-github:              "githubuser/autocomplete"
+github:              "e7kim/parallel_autocomplete"
 license:             BSD3
 author:              "Eugene Kim"
 maintainer:          "ek3192@columbia.edu"
